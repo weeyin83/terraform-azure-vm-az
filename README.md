@@ -4,6 +4,8 @@ This Terraform configuration deploys Ubuntu virtual machines across Azure availa
 
 <a href="https://www.buymeacoffee.com/techielass"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="techielass" /></a></p>
 
+<br><br>
+
 ## 🚀 Features
 
 - **Random Region Selection**: Automatically selects from UK West, West Europe, France Central, or Sweden Central
